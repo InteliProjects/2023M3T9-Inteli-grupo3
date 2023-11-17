@@ -1,0 +1,5 @@
+*.xls
+*.xlsx
+*.tsv
+*.csv
+notebooks/Rede_Neural.ipynb
